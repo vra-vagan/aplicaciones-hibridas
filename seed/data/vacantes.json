@@ -1,0 +1,212 @@
+[
+  {
+    "titulo": "Desarrollador PHP Sr.",
+    "descripcion": "Buscamos un desarrollador PHP con sólida experiencia en arquitecturas MVC, APIs REST y bases de datos relacionales para sumarse al equipo de plataforma de Mercado Libre.",
+    "descripcion_completa": "En Mercado Libre estamos democratizando el comercio y los servicios financieros para transformar la vida de las personas de América Latina. Buscamos un desarrollador PHP Senior para integrarse al equipo de plataforma, trabajando en soluciones de alto impacto que afectan a millones de usuarios. Tenemos un desafío para quienes vibran energía emprendedora y se mueven por la curiosidad. Si te apasiona construir software robusto, escalable y bien testeado, esta posición es para vos. Serás responsable de diseñar e implementar nuevas funcionalidades, participar en decisiones de arquitectura y colaborar con equipos multidisciplinarios para co-crear soluciones que escalen.",
+    "requisitos": [
+      "PHP 8+",
+      "MySQL",
+      "REST APIs",
+      "Git"
+    ],
+    "requisitos_texto": "Contar con al menos 3 años de experiencia en desarrollo PHP en entornos de producción de alto tráfico. Tener dominio de arquitecturas MVC y diseño de APIs REST. Manejar bases de datos relacionales, especialmente MySQL, con criterio para optimizar consultas. Conocer buenas prácticas de desarrollo: testing, code review y documentación. Es deseable experiencia con Laravel o Symfony y conocimientos de Docker.",
+    "proponemos": "Ser parte de una compañía con espíritu emprendedor en la que nos encanta pensar en grande y a largo plazo. Acceder a un plan de carrera claro con oportunidades de crecimiento en un entorno tecnológico de primer nivel. Trabajar con equipos de alto rendimiento en proyectos que impactan a millones de personas en toda Latinoamérica. Beneficios competitivos, modalidad híbrida y un excelente clima de trabajo.",
+    "empleador": "Mercado Libre",
+    "categoria": "tecnologia",
+    "modalidad": "hibrido",
+    "tipo": "tiempo-completo",
+    "experiencia": "3-6 años",
+    "salario": 850000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-20"
+  },
+  {
+    "titulo": "Diseñador UX/UI",
+    "descripcion": "Buscamos un diseñador apasionado por crear experiencias digitales centradas en el usuario para nuestros productos de e-commerce en toda Latinoamérica.",
+    "descripcion_completa": "En Mercado Libre diseñamos productos que usan millones de personas todos los días. Buscamos un Diseñador UX/UI con sensibilidad para entender al usuario y habilidad para traducir esa comprensión en interfaces claras, funcionales y atractivas. Trabajarás de manera autónoma y colaborativa, integrando un equipo de diseño apasionado por el detalle. Serás responsable de llevar adelante investigación de usuarios, definir flujos de navegación, crear prototipos y trabajar codo a codo con el equipo de desarrollo para asegurar una implementación fiel al diseño.",
+    "requisitos": [
+      "Figma",
+      "Design Systems",
+      "Prototipado",
+      "Research"
+    ],
+    "requisitos_texto": "Tener experiencia comprobable en diseño de productos digitales, con un portfolio que lo demuestre. Dominar Figma para diseño y prototipado. Tener experiencia trabajando con o construyendo design systems. Conocer metodologías de investigación de usuarios: entrevistas, tests de usabilidad, encuestas. Es deseable experiencia en productos de e-commerce o fintech.",
+    "proponemos": "Trabajar en uno de los productos digitales más utilizados de América Latina. Libertad para proponer y experimentar con nuevas soluciones de diseño. Acceso a herramientas y recursos de primer nivel. Modalidad remota con flexibilidad horaria y posibilidad de crecimiento hacia roles de liderazgo en diseño.",
+    "empleador": "Mercado Libre",
+    "categoria": "tecnologia",
+    "modalidad": "remoto",
+    "tipo": "freelance",
+    "experiencia": "1-3 años",
+    "salario": 780000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-22"
+  },
+  {
+    "titulo": "Frontend Developer",
+    "descripcion": "Globant busca un frontend developer para integrarse a uno de nuestros studios digitales trabajando con clientes internacionales de primer nivel.",
+    "descripcion_completa": "En Globant combinamos tecnología de vanguardia con creatividad para ayudar a las empresas más importantes del mundo a transformarse digitalmente. Buscamos un Frontend Developer para sumarse a uno de nuestros studios, trabajando en proyectos desafiantes para clientes de industrias como entretenimiento, banca, retail y salud. Si te apasiona escribir código limpio, te importa la experiencia del usuario y te gusta estar al día con las últimas tendencias del desarrollo web, este es tu lugar.",
+    "requisitos": [
+      "React",
+      "TypeScript",
+      "CSS",
+      "Testing"
+    ],
+    "requisitos_texto": "Contar con experiencia sólida en React y TypeScript. Tener buen manejo de CSS y conocimiento de principios de diseño responsivo. Conocer herramientas de testing como Jest o React Testing Library. Trabajar con metodologías ágiles y tener experiencia en equipos distribuidos. Es deseable experiencia con Next.js y conocimientos de accesibilidad web.",
+    "proponemos": "Trabajar con clientes internacionales de primer nivel en proyectos de alta visibilidad. Plan de carrera estructurado con certificaciones y capacitaciones continuas. Comunidades internas de práctica donde compartir conocimiento con expertos. Beneficios flexibles, trabajo remoto y una cultura que celebra la innovación.",
+    "empleador": "Globant",
+    "categoria": "tecnologia",
+    "modalidad": "remoto",
+    "tipo": "tiempo-completo",
+    "experiencia": "1-3 años",
+    "salario": 920000,
+    "prioridad": true,
+    "fecha_publicacion": "2026-05-18"
+  },
+  {
+    "titulo": "QA Engineer",
+    "descripcion": "Nos encontramos en la búsqueda de un QA Engineer para asegurar la calidad de productos digitales en proyectos de alto impacto.",
+    "descripcion_completa": "En Globant la calidad no es una etapa final, es una mentalidad que atraviesa todo el proceso de desarrollo. Buscamos un QA Engineer para integrarse a un equipo multidisciplinario y ser el guardián de la experiencia del usuario. Tu trabajo tendrá impacto directo en productos que usan millones de personas. Serás responsable de diseñar y ejecutar casos de prueba, identificar y reportar defectos, y colaborar con desarrolladores para garantizar entregas de alta calidad.",
+    "requisitos": [
+      "Testing manual",
+      "Selenium",
+      "JIRA",
+      "Metodologías ágiles"
+    ],
+    "requisitos_texto": "Tener experiencia en testing manual y automatizado. Conocer Selenium u otras herramientas de automatización de pruebas. Manejar JIRA para el seguimiento de defectos y gestión de tareas. Trabajar cómodamente en entornos ágiles con sprints y ceremonias Scrum. Es deseable conocimiento de performance testing y experiencia con APIs.",
+    "proponemos": "Integrarte a equipos de alto rendimiento con cultura de calidad arraigada. Capacitaciones y certificaciones en las principales herramientas del mercado. Posibilidad de especializarte en automatización y QA estratégico. Contrato por proyecto con posibilidad de extensión y excelente clima de trabajo.",
+    "empleador": "Globant",
+    "categoria": "tecnologia",
+    "modalidad": "hibrido",
+    "tipo": "contrato-temporal",
+    "experiencia": "1-3 años",
+    "salario": 700000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-19"
+  },
+  {
+    "titulo": "Desarrollador Backend Node.js",
+    "descripcion": "Despegar busca un desarrollador backend para trabajar en los microservicios que potencian la plataforma de viajes más grande de Latinoamérica.",
+    "descripcion_completa": "En Despegar conectamos a millones de viajeros con sus destinos soñados todos los días. Para lograrlo, construimos una plataforma tecnológica de alta disponibilidad y escala. Buscamos un Desarrollador Backend con experiencia en Node.js para sumarse al equipo de infraestructura de servicios, trabajando en la evolución de nuestra arquitectura de microservicios. Si te apasiona la tecnología, los desafíos de escala y querés que tu código impacte en la vida de millones de personas, este rol es para vos.",
+    "requisitos": [
+      "Node.js",
+      "MongoDB",
+      "Docker",
+      "AWS"
+    ],
+    "requisitos_texto": "Contar con experiencia sólida en Node.js y desarrollo de APIs RESTful. Tener conocimiento de bases de datos NoSQL, especialmente MongoDB. Manejar contenedores con Docker y orquestación básica con Kubernetes. Tener experiencia con servicios de AWS como EC2, S3 o Lambda. Es deseable experiencia en arquitecturas de microservicios y sistemas distribuidos.",
+    "proponemos": "Trabajar en una plataforma de escala masiva con millones de transacciones diarias. Acceso a tecnología de punta y libertad para proponer mejoras arquitectónicas. Modalidad híbrida con flexibilidad y un equipo técnico de altísimo nivel. Beneficios competitivos, plan de carrera y posibilidades de crecimiento regional.",
+    "empleador": "Despegar",
+    "categoria": "tecnologia",
+    "modalidad": "hibrido",
+    "tipo": "tiempo-completo",
+    "experiencia": "3-6 años",
+    "salario": 980000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-15"
+  },
+  {
+    "titulo": "Data Analyst",
+    "descripcion": "Buscamos un analista de datos para transformar información del negocio en insights que mejoren la experiencia de millones de viajeros.",
+    "descripcion_completa": "En Despegar los datos son el corazón de cada decisión. Buscamos un Data Analyst para integrarse al equipo de Business Intelligence y ayudarnos a entender mejor el comportamiento de nuestros usuarios, optimizar procesos y detectar oportunidades de crecimiento. Trabajarás con grandes volúmenes de datos reales, colaborarás con equipos de producto, marketing y operaciones, y tus análisis tendrán impacto directo en la estrategia del negocio.",
+    "requisitos": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Google Analytics"
+    ],
+    "requisitos_texto": "Tener experiencia en análisis de datos con SQL avanzado. Manejar Python para manipulación y análisis de datos con pandas o similares. Conocer herramientas de visualización como Tableau o Power BI. Tener experiencia con Google Analytics u otras plataformas de analítica web. Es deseable conocimiento de modelos estadísticos y experiencia con BigQuery o Redshift.",
+    "proponemos": "Trabajar con datos reales de una de las plataformas de viajes más grandes de la región. Acceso a herramientas de BI de primer nivel y capacitaciones continuas. Un equipo apasionado por los datos con cultura de experimentación y aprendizaje. Modalidad remota, flexibilidad y beneficios competitivos.",
+    "empleador": "Despegar",
+    "categoria": "tecnologia",
+    "modalidad": "remoto",
+    "tipo": "por-proyecto",
+    "experiencia": "1-3 años",
+    "salario": 750000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-21"
+  },
+  {
+    "titulo": "Analista de Riesgo Crediticio",
+    "descripcion": "Naranja X busca un analista para evaluar y gestionar el riesgo de nuestra cartera de productos financieros para más de 6 millones de clientes.",
+    "descripcion_completa": "En Naranja X estamos construyendo la fintech del futuro para los argentinos. Buscamos un Analista de Riesgo Crediticio para integrarse al equipo de Risk Management y contribuir a que podamos ofrecer productos financieros de manera responsable y sostenible. Trabajarás con modelos de scoring, analizarás el comportamiento de la cartera y propondrás acciones para optimizar el balance entre crecimiento y riesgo.",
+    "requisitos": [
+      "Excel avanzado",
+      "SQL",
+      "Modelos de scoring",
+      "Estadística"
+    ],
+    "requisitos_texto": "Contar con formación en Economía, Finanzas, Actuaría, Ingeniería o carreras afines. Tener experiencia en análisis de riesgo crediticio o en áreas relacionadas. Manejar SQL para extracción y análisis de datos. Conocer modelos de scoring crediticio y técnicas estadísticas básicas. Es deseable experiencia con Python o R para análisis de datos.",
+    "proponemos": "Ser parte de una de las fintechs de mayor crecimiento de Argentina. Trabajar en un entorno dinámico donde tus análisis impactan directamente en la estrategia del negocio. Capacitaciones en herramientas y metodologías de riesgo financiero. Beneficios competitivos y posibilidades de crecimiento dentro del equipo.",
+    "empleador": "Naranja X",
+    "categoria": "finanzas",
+    "modalidad": "presencial",
+    "tipo": "tiempo-completo",
+    "experiencia": "1-3 años",
+    "salario": 680000,
+    "prioridad": true,
+    "fecha_publicacion": "2026-05-17"
+  },
+  {
+    "titulo": "Product Manager Fintech",
+    "descripcion": "Buscamos un PM con experiencia en productos financieros digitales para liderar la evolución de nuestra billetera virtual.",
+    "descripcion_completa": "En Naranja X la billetera virtual es el corazón de nuestra propuesta de valor. Buscamos un Product Manager para liderar la evolución de este producto, trabajando en la intersección entre negocio, tecnología y diseño. Serás responsable de definir el roadmap, priorizar funcionalidades, trabajar con equipos de ingeniería y diseño, y medir el impacto de cada iniciativa. Si te apasionan los productos financieros digitales y querés construir algo que use toda Argentina, esta posición es para vos.",
+    "requisitos": [
+      "Product Management",
+      "Métricas",
+      "UX",
+      "Roadmap"
+    ],
+    "requisitos_texto": "Contar con experiencia como Product Manager en empresas de tecnología o fintech. Tener habilidad para definir y priorizar roadmaps con criterio de negocio. Manejar métricas de producto y tomar decisiones basadas en datos. Tener capacidad para trabajar y alinear equipos multidisciplinarios. Es deseable experiencia en productos de pagos, billeteras digitales o servicios financieros.",
+    "proponemos": "Liderar un producto que usan millones de argentinos. Autonomía para proponer y ejecutar iniciativas de alto impacto. Trabajar con equipos de ingeniería y diseño de primer nivel. Modalidad híbrida, beneficios competitivos y un entorno de crecimiento acelerado.",
+    "empleador": "Naranja X",
+    "categoria": "finanzas",
+    "modalidad": "hibrido",
+    "tipo": "tiempo-completo",
+    "experiencia": "3-6 años",
+    "salario": 1100000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-16"
+  },
+  {
+    "titulo": "Social Media Manager",
+    "descripcion": "Ogilvy busca un Social Media Manager creativo para gestionar las cuentas de marcas líderes del mercado argentino e internacional.",
+    "descripcion_completa": "En Ogilvy Argentina llevamos décadas construyendo marcas icónicas. Hoy buscamos un Social Media Manager para sumarse a nuestro equipo digital y llevar las redes sociales de algunas de las marcas más reconocidas del mercado a un nuevo nivel. Si te apasiona el contenido, tenés ojo para las tendencias y sabés cómo hacer que una marca hable de manera auténtica en cada plataforma, este rol es para vos. Trabajarás en un entorno creativo, dinámico y de alto estímulo.",
+    "requisitos": [
+      "Redes sociales",
+      "Redacción creativa",
+      "Análisis de métricas",
+      "Canva"
+    ],
+    "requisitos_texto": "Tener experiencia gestionando redes sociales de marcas, ya sea en agencia o del lado cliente. Contar con habilidades de redacción creativa y adaptación de tono según plataforma. Manejar herramientas de análisis de métricas como Meta Business Suite, TikTok Analytics o similares. Conocer Canva u otras herramientas de diseño básico para crear piezas gráficas. Es deseable experiencia con gestión de comunidades y conocimiento de paid media.",
+    "proponemos": "Trabajar con marcas líderes y un equipo creativo de alto nivel. Exposición a proyectos regionales e internacionales desde Buenos Aires. Un ambiente de trabajo estimulante donde las ideas son bienvenidas. Capacitaciones en tendencias digitales y posibilidades de crecimiento en el área.",
+    "empleador": "Ogilvy",
+    "categoria": "marketing",
+    "modalidad": "hibrido",
+    "tipo": "pasantia",
+    "experiencia": "1-3 años",
+    "salario": 620000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-23"
+  },
+  {
+    "titulo": "Account Executive",
+    "descripcion": "Buscamos un Account Executive para gestionar la relación con clientes de primer nivel y coordinar campañas de comunicación integrada.",
+    "descripcion_completa": "En Ogilvy Argentina trabajamos con algunos de los anunciantes más importantes del país. Buscamos un Account Executive para gestionar la relación diaria con clientes, coordinar el trabajo interno entre los equipos de creatividad, producción y medios, y asegurar que cada campaña se entregue en tiempo y forma con la calidad que nos caracteriza. Si te gusta el trabajo en equipo, tenés habilidades de comunicación y querés aprender de los mejores en el negocio de la publicidad, este es tu lugar.",
+    "requisitos": [
+      "Gestión de cuentas",
+      "Presentaciones",
+      "Planificación",
+      "Inglés"
+    ],
+    "requisitos_texto": "Tener experiencia previa en agencias de publicidad o comunicación, idealmente en roles de cuentas o producción. Contar con habilidades de comunicación oral y escrita, tanto en español como en inglés. Manejar herramientas de gestión de proyectos y tener capacidad para coordinar múltiples tareas simultáneamente. Tener orientación al cliente y habilidad para construir relaciones de confianza. Es deseable conocimiento del proceso creativo publicitario.",
+    "proponemos": "Trabajar en una de las agencias más reconocidas del mundo con presencia en Argentina. Aprender de profesionales con décadas de experiencia en el negocio. Exposición a clientes de primer nivel y proyectos de alto impacto. Un ambiente dinámico y creativo con posibilidades de crecimiento hacia roles de liderazgo de cuenta.",
+    "empleador": "Ogilvy",
+    "categoria": "marketing",
+    "modalidad": "presencial",
+    "tipo": "medio-tiempo",
+    "experiencia": "1-3 años",
+    "salario": 580000,
+    "prioridad": false,
+    "fecha_publicacion": "2026-05-14"
+  }
+]

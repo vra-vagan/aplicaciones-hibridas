@@ -1,0 +1,25 @@
+[
+  {
+    "nombre": "Ana",
+    "apellido": "García",
+    "email": "ana.garcia@example.com",
+    "telefono": "+54 11 5555-0101"
+  },
+  {
+    "nombre": "Martín",
+    "apellido": "Pérez",
+    "email": "martin.perez@example.com",
+    "telefono": "+54 11 5555-0102"
+  },
+  {
+    "nombre": "Lucía",
+    "apellido": "Fernández",
+    "email": "lucia.fernandez@example.com"
+  },
+  {
+    "nombre": "Tomás",
+    "apellido": "Rodríguez",
+    "email": "tomas.rodriguez@example.com",
+    "telefono": "+54 351 555-0104"
+  }
+]

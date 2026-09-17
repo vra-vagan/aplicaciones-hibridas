@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Mercado Libre",
+    "descripcion": "Mercado Libre es la plataforma de comercio electrónico y servicios financieros más grande de América Latina, presente en 18 países.",
+    "logo": "/img/empresas/mercadolibre.svg",
+    "ubicacion": "CABA, Argentina",
+    "sitio_web": "https://www.mercadolibre.com.ar",
+    "email_contacto": "jobs@mercadolibre.com"
+  },
+  {
+    "nombre": "Globant",
+    "descripcion": "Globant es una empresa argentina de tecnología y servicios digitales con presencia en más de 30 países y más de 27.000 empleados.",
+    "logo": "/img/empresas/globant.svg",
+    "ubicacion": "CABA, Argentina",
+    "sitio_web": "https://www.globant.com",
+    "email_contacto": "careers@globant.com"
+  },
+  {
+    "nombre": "Despegar",
+    "descripcion": "Despegar es la agencia de viajes online líder en América Latina, con operaciones en más de 20 países de la región.",
+    "logo": "/img/empresas/despegar.svg",
+    "ubicacion": "CABA, Argentina",
+    "sitio_web": "https://www.despegar.com.ar",
+    "email_contacto": "rrhh@despegar.com"
+  },
+  {
+    "nombre": "Naranja X",
+    "descripcion": "Naranja X es la fintech argentina del Grupo Financiero Galicia, con más de 6 millones de clientes en todo el país.",
+    "logo": "/img/empresas/naranjax.svg",
+    "ubicacion": "Córdoba, Argentina",
+    "sitio_web": "https://www.naranjax.com",
+    "email_contacto": "empleo@naranjax.com"
+  },
+  {
+    "nombre": "Ogilvy",
+    "descripcion": "Ogilvy es una de las agencias de publicidad y comunicación más reconocidas del mundo, con oficinas en Buenos Aires desde 1963.",
+    "logo": "/img/empresas/ogilvy.svg",
+    "ubicacion": "CABA, Argentina",
+    "sitio_web": "https://www.ogilvy.com/",
+    "email_contacto": "careers@ogilvy.com.ar"
+  }
+]
