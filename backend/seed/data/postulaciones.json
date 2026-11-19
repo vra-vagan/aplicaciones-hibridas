@@ -1,0 +1,22 @@
+[
+  {
+    "usuario": "ana.garcia@example.com",
+    "vacante": "Desarrollador PHP Sr.",
+    "mensaje": "Tengo 4 años de experiencia con PHP y Laravel. Me encantaría sumarme al equipo.",
+    "perfil": "https://linkedin.com/in/ana-garcia",
+    "estado": "en-revision"
+  },
+  {
+    "usuario": "ana.garcia@example.com",
+    "vacante": "Diseñador UX/UI",
+    "mensaje": "Además de desarrollar, diseño interfaces en Figma.",
+    "estado": "pendiente"
+  },
+  {
+    "usuario": "martin.perez@example.com",
+    "vacante": "Desarrollador PHP Sr.",
+    "mensaje": "Trabajé 3 años en una fintech con PHP 8 y MySQL.",
+    "perfil": "https://github.com/martinperez",
+    "estado": "pendiente"
+  }
+]

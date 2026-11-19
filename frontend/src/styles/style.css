@@ -1,0 +1,1579 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    scroll-padding: 5.25rem;
+}
+
+body {
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+.btn,
+button,
+input,
+select {
+    font-family: inherit;
+}
+
+.logo span,
+.badge,
+.detalle__seccion h3,
+.detalle__seccion p,
+.vacante__requisito,
+.vacante__salario,
+body,
+h4,
+input,
+section h2,
+select {
+    color: #000000;
+}
+
+.btn--secundario {
+    color: #000000 !important;
+}
+
+a {
+    color: inherit;
+}
+
+.btn,
+.vacante__prioridad {
+    color: #ffffff;
+}
+
+.categorias__ver-mas,
+.contacto__obligatorio,
+.destacadas__ver-mas,
+.nav__lista li a:hover,
+.nav__lista li a.activo {
+    color: #0578ff;
+}
+
+.nav__lista li a {
+    color: #555555;
+}
+
+.footer,
+.vacante__fecha {
+    color: #aaaaaa;
+}
+
+.categoria__cantidad,
+.detalle__info-empresa,
+.empresa__ubicacion,
+.vacante__info,
+.vacante__ubicacion {
+    color: #888888;
+}
+
+.aside__titulo,
+.detalle__info p,
+.detalle__seccion-titulo .vacante__fecha,
+.empresa__dato,
+.hero__content > p,
+.vacante__descripcion {
+    color: #8e8e93;
+}
+
+input:-ms-input-placeholder,
+input::-moz-placeholder,
+input::-ms-input-placeholder,
+input::-webkit-input-placeholder,
+input::placeholder,
+select:-ms-input-placeholder,
+select::-moz-placeholder,
+select::-ms-input-placeholder,
+select::-webkit-input-placeholder,
+select::placeholder {
+    color: #c7c7cc;
+}
+
+.contacto__hint,
+.vacantes__vacio {
+    color: #999999;
+}
+
+.aside__opcion {
+    color: #333333;
+}
+
+.contacto__label {
+    color: #444444;
+}
+
+.contacto__aviso--exito {
+    color: #1a6e35;
+}
+
+.contacto__aviso--error {
+    color: #9b0015;
+}
+
+.detalle__info-empresa,
+.detalle__seccion-titulo .vacante__fecha,
+.empresa__ubicacion,
+.vacante__info,
+.vacante__prioridad,
+.vacante__ubicacion,
+body,
+h1,
+section h2 {
+    line-height: 1.2;
+}
+
+.detalle__info h2,
+.logo span,
+.vacante__salario,
+h3 {
+    line-height: 1;
+}
+
+h4 {
+    line-height: 1.25;
+}
+
+.badge,
+.empresa__dato,
+.vacante__descripcion,
+.vacante__requisito {
+    line-height: 1.5;
+}
+
+.aside__opcion span {
+    line-height: 1.3;
+}
+
+.detalle__seccion p {
+    line-height: 1.44;
+}
+
+.hero__content > p {
+    line-height: 1.6;
+}
+
+.hero h1 {
+    line-height: 0.92;
+}
+
+.destacadas .vacante__salario,
+.destacadas .vacante__titulo h3 {
+    line-height: 1.4;
+}
+
+body {
+    min-height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+.aside__restablecer:hover,
+.categorias__ver-mas:hover,
+.destacadas__ver-mas:hover,
+.detalle__info a:hover,
+.detalle__info-empresa a:hover,
+.vacante__empresa-container:hover .vacante__empresa {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 75rem;
+}
+
+.contacto__formulario,
+.detalle .tarjetas,
+.hero__content,
+.vacante__pagina .detalle,
+.vacantes__lista {
+    max-width: 50rem;
+}
+
+.vacante__descripcion {
+    max-width: 40rem;
+}
+
+.vacante__pagina .contacto__formulario,
+.vacante__pagina .tarjetas {
+    max-width: unset;
+}
+
+.hero__content > p {
+    max-width: 35rem;
+}
+
+.container,
+.hero__content {
+    margin: 0 auto;
+}
+
+.destacadas .vacante.vacante--prioridad,
+.detalle .tarjetas .busqueda,
+.vacante__pagina .postulacion {
+    margin: 0;
+}
+
+.vacante__badges {
+    margin: 0.25rem 0;
+}
+
+.detalle__aside h2 {
+    margin: 0.875rem 0 0;
+}
+
+.vacante__pagina .tarjetas {
+    margin: unset;
+}
+
+.hero__content > p {
+    margin: 1.5rem auto 2rem;
+}
+
+.aside__restablecer,
+.categorias__ver-mas,
+.destacadas__ver-mas,
+img {
+    display: block;
+}
+
+.logo,
+.aside__opcion,
+.aside__opciones,
+.busqueda__inner,
+.categoria__item,
+.contacto__campo,
+.contacto__formulario,
+.detalle,
+.detalle__aside,
+.detalle__fin,
+.detalle__header,
+.detalle__seccion-titulo,
+.empresa,
+.empresa__header,
+.empresa__header-info,
+.header .container,
+.hero__busqueda-inner,
+.logo span,
+.nav__lista,
+.vacante,
+.vacante__badges,
+.vacante__empresa-container,
+.vacante__fecha,
+.vacante__footer,
+.vacante__info,
+.vacante__pagina,
+.vacante__prioridad,
+.vacante__requisitos,
+.vacante__titulo,
+.vacantes__layout,
+.empresas__layout,
+body {
+    display: flex;
+}
+
+.btn {
+    display: inline-flex;
+}
+
+.categorias__grilla,
+.detalle__seccion,
+.tarjetas,
+.tarjetas--grid {
+    display: grid;
+}
+
+.vacante__descripcion {
+    display: -webkit-box;
+}
+
+.destacadas .vacante__badges,
+.destacadas .vacante__descripcion,
+.destacadas .vacante__fecha,
+.destacadas .vacante__footer,
+.destacadas .vacante__prioridad {
+    display: none;
+}
+
+section {
+    padding: 3rem 0;
+}
+
+.container,
+.vacante__prioridad {
+    padding: 0 1.5rem;
+}
+
+.nav__lista li a {
+    padding: 0.25rem 0;
+}
+
+.categoria__item,
+.contacto__formulario,
+.empresa,
+.footer,
+.vacante {
+    padding: 1.5rem;
+}
+
+.btn,
+input,
+select {
+    padding: 1rem 1.25rem;
+}
+
+.hero {
+    padding: 7rem 0;
+}
+
+.contacto__aviso,
+.hero__busqueda {
+    padding: 1rem;
+}
+
+.badge,
+.vacante__requisito {
+    padding: 0.25rem 0.75rem;
+}
+
+select {
+    padding: 0 0.75rem;
+}
+
+.vacantes__vacio {
+    padding: 2rem 0;
+}
+
+.header {
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.btn {
+    background-color: #0578ff;
+}
+
+.btn:hover {
+    background-color: #3b95ff;
+}
+
+.btn--secundario {
+    background-color: #f2f2f7;
+}
+
+.btn--secundario:hover {
+    background-color: #f3f3f3;
+}
+
+.hero {
+    background-color: #111111;
+}
+
+.header {
+    border-bottom: 0.0625rem solid #e0e0e0;
+}
+
+.nav__lista li a {
+    border-bottom: 0.125rem solid transparent;
+}
+
+.detalle__header,
+.detalle__seccion {
+    border-bottom: 0.0625rem solid #e5e5ea;
+}
+
+.detalle__aside,
+.header,
+.vacantes__aside {
+    position: -webkit-sticky;
+}
+
+.detalle__aside,
+.header,
+.vacantes__aside {
+    position: sticky;
+}
+
+.vacante.vacante--prioridad {
+    position: relative;
+}
+
+.vacante__prioridad {
+    position: absolute;
+}
+
+.header {
+    top: 0;
+}
+
+.detalle__aside,
+.vacantes__aside {
+    top: 5rem;
+}
+
+.contacto__input,
+.contacto__textarea,
+.detalle__seccion,
+.header,
+.tarjetas,
+.vacante__descripcion,
+.vacante__titulo {
+    width: 100%;
+}
+
+.empresa__logo,
+.vacante__logo {
+    width: 3.25rem;
+}
+
+.vacantes__aside {
+    width: unset;
+}
+
+.aside__opcion input[type="checkbox"] {
+    width: 1rem;
+}
+
+.detalle__logo {
+    width: 5rem;
+}
+
+.destacadas .vacante__logo,
+.categorias .empresa__logo {
+    width: 2.25rem !important;
+}
+
+.header {
+    z-index: 100;
+}
+
+.aside__opcion,
+.btn,
+.busqueda__inner,
+.categoria__item,
+.detalle__fin,
+.detalle__header,
+.empresa__header,
+.header .container,
+.logo span,
+.vacante__empresa-container,
+.vacante__footer,
+.vacante__prioridad,
+.vacante__titulo {
+    align-items: center;
+}
+
+.empresa,
+.vacante,
+.vacante__pagina,
+.empresas__layout,
+.vacantes__layout {
+    align-items: flex-start;
+}
+
+.header .container,
+.vacante__footer,
+.vacante__pagina,
+.vacante__titulo,
+.empresas__layout,
+.vacantes__layout {
+    justify-content: space-between;
+}
+
+.btn,
+.logo span {
+    justify-content: center;
+}
+
+.header .container {
+    height: 4rem;
+}
+
+.vacante__prioridad {
+    height: 1.75rem;
+}
+
+.empresa__logo,
+.vacante__logo {
+    height: 3.25rem;
+}
+
+.btn,
+button,
+input,
+select {
+    height: 3rem;
+}
+
+.destacadas .vacante__logo,
+.categorias .empresa__logo {
+    height: 2.25rem !important;
+}
+
+.aside__opcion input[type="checkbox"] {
+    height: 1rem;
+}
+
+.detalle__logo {
+    height: 5rem;
+}
+
+.categorias__grilla,
+.detalle__header,
+.detalle__seccion,
+.header .container,
+.tarjetas,
+.vacante__pagina,
+.empresas__layout,
+.vacantes__layout {
+    gap: 1.5rem;
+}
+
+.nav__lista {
+    gap: 2rem;
+}
+
+.logo,
+.aside__opciones,
+.busqueda__inner,
+.contacto__campo,
+.vacante__prioridad {
+    gap: 0.5rem;
+}
+
+.destacadas .vacante__empresa-container,
+.categoria__item,
+.vacante,
+.vacante__titulo {
+    gap: 1rem;
+}
+
+.detalle,
+.detalle__fin,
+.empresa__header,
+.vacante__empresa-container {
+    gap: 1.25rem;
+}
+
+.vacante__badges,
+.vacante__requisitos {
+    gap: 0.25rem;
+}
+
+.tarjetas--grid {
+    gap: 1.2rem;
+}
+
+.aside__opcion,
+.detalle__seccion-titulo,
+.hero__busqueda-inner {
+    gap: 0.75rem;
+}
+
+.contacto__formulario {
+    gap: 1.125rem;
+}
+
+.detalle__aside {
+    gap: 0.625rem;
+}
+
+.destacadas .vacante {
+    gap: 0;
+}
+
+.categoria__nombre,
+.destacadas .vacante__salario,
+.destacadas .vacante__titulo h3,
+.logo span {
+    font-size: 1.125rem;
+}
+
+.nav__lista li a {
+    font-size: 0.95rem;
+}
+
+.aside__opcion,
+.aside__restablecer,
+.aside__titulo,
+.categoria__cantidad,
+.contacto__aviso,
+.contacto__label,
+.detalle__info p,
+.detalle__info-empresa,
+.detalle__seccion-titulo .vacante__fecha,
+.empresa__dato,
+.empresa__ubicacion,
+.footer,
+.vacante__descripcion,
+.vacante__info,
+.vacante__ubicacion {
+    font-size: 0.875rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.btn,
+.detalle__seccion p,
+.hero__content > p,
+button,
+h4,
+input,
+select {
+    font-size: 1rem;
+}
+
+section h2 {
+    font-size: 1.75rem;
+}
+
+.badge,
+.contacto__hint,
+.vacante__fecha,
+.vacante__prioridad,
+.vacante__requisito {
+    font-size: 0.75rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.detalle__seccion h3,
+.vacante__salario {
+    font-size: 1.25rem;
+}
+
+.hero h1 {
+    font-size: 4.5rem;
+}
+
+.badge,
+.categoria__nombre,
+.vacante__requisito,
+.vacante__salario,
+h3,
+section h2 {
+    font-weight: 500;
+}
+
+.contacto__label,
+.logo span,
+h1,
+h4 {
+    font-weight: 600;
+}
+
+.aside__titulo,
+input,
+select {
+    font-weight: 400;
+}
+
+.logo span,
+h1 {
+    letter-spacing: -0.0313rem;
+}
+
+.hero h1 {
+    letter-spacing: -0.02em;
+}
+
+.categoria__nombre {
+    letter-spacing: -0.01em;
+}
+
+.categoria__item:hover,
+.categorias,
+.contacto__formulario,
+.detalle__logo,
+.empresa,
+.vacante,
+input,
+select {
+    background: #ffffff;
+}
+
+.badge,
+.hero__busqueda,
+.vacante__requisito {
+    background: #f2f2f7;
+}
+
+.contacto__aviso--exito {
+    background: #e6f9ee;
+}
+
+.contacto__aviso--error {
+    background: #fff0f2;
+}
+
+.hero {
+    background: url('/img/assets/hero.svg') no-repeat bottom center / cover;
+}
+
+.btn,
+.footer,
+.hero h1,
+.hero__content > p,
+.vacantes__vacio {
+    text-align: center;
+}
+
+.categoria__cantidad,
+.logo span,
+.vacante__salario {
+    white-space: nowrap;
+}
+
+.detalle__logo,
+.empresa__logo,
+.vacante__logo {
+    border-radius: 50%;
+}
+
+.contacto__aviso {
+    border-radius: 1rem;
+}
+
+.categoria__item,
+.contacto__formulario,
+.empresa,
+.vacante {
+    border-radius: 1.5rem;
+}
+
+.badge,
+.hero__busqueda,
+.vacante__requisito {
+    border-radius: 1.25rem;
+}
+
+.btn,
+button,
+input,
+select {
+    border-radius: 0.75rem;
+}
+
+.nav__lista li a {
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.btn {
+    transition: background-color 0.3s;
+}
+
+.categoria__item,
+.empresa,
+.vacante {
+    transition: all 0.3s;
+}
+
+.contacto__input,
+.contacto__textarea {
+    transition: border-color 0.3s;
+}
+
+.nav__lista li a:hover,
+.nav__lista li a.activo {
+    border-bottom-color: #0578ff;
+}
+
+.empresa .btn,
+.footer,
+.vacante__footer {
+    margin-top: auto;
+}
+
+.aside__restablecer,
+.categorias__ver-mas,
+.destacadas .vacante__empresa-container,
+.destacadas__ver-mas,
+.tarjetas--grid {
+    margin-top: 1.5rem;
+}
+
+.vacante.vacante--prioridad {
+    margin-top: 1.75rem;
+}
+
+.postulacion {
+    margin-top: 2rem;
+}
+
+.contacto__formulario {
+    margin-top: 1rem;
+}
+
+.vacante__pagina .vacante__badges,
+.vacante__pagina .vacante__requisitos,
+.vacantes__layout {
+    margin-top: 1.25rem;
+}
+
+.btn,
+.hero__input {
+    border: none;
+}
+
+.categoria__item,
+.contacto__formulario,
+.detalle__logo,
+.empresa,
+.empresa__logo,
+.vacante,
+.vacante__logo,
+input,
+select {
+    border: 0.0625rem solid #e5e5ea;
+}
+
+.contacto__aviso--exito {
+    border: 0.0625rem solid #b3e6c8;
+}
+
+.contacto__aviso--error {
+    border: 0.0625rem solid #f5c0c7;
+}
+
+.hero__input {
+    border: 0.0625rem solid #d1d1d6;
+}
+
+.aside__opcion,
+.aside__opcion input[type="checkbox"],
+.btn,
+.empresa,
+.vacante {
+    cursor: pointer;
+}
+
+.aside__grupo:last-child,
+.hero {
+    margin-bottom: 0;
+}
+
+.vacante__descripcion {
+    margin-bottom: 0.75rem;
+}
+
+.detalle__seccion {
+    margin-bottom: 2rem;
+}
+
+.aside__grupo,
+.busqueda,
+.empresa__dato,
+.empresa__header,
+.hero__busqueda,
+section h2 {
+    margin-bottom: 1.5rem;
+}
+
+.contacto__aviso,
+.empresa__nombre,
+.postulacion h3 {
+    margin-bottom: 0.5rem;
+}
+
+.aside__titulo,
+.vacantes__aside h4 {
+    margin-bottom: 1rem;
+}
+
+.detalle__info h2 {
+    margin-bottom: 0.625rem;
+}
+
+.busqueda__input,
+.hero__input,
+.vacantes__lista {
+    flex: 1;
+}
+
+.contacto__input:focus,
+.contacto__textarea:focus,
+.hero__input {
+    outline: none;
+}
+
+.categorias__grilla,
+.destacadas .tarjetas {
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+}
+
+.tarjetas,
+.tarjetas--grid {
+    grid-template-columns: repeat(auto-fill, minmax(23.75rem, 1fr));
+}
+
+.tarjetas--lista {
+    grid-template-columns: 1fr;
+}
+
+.detalle__seccion {
+    grid-template-columns: 11.25rem 1fr;
+}
+
+.aside__opciones,
+.contacto__campo,
+.contacto__formulario,
+.detalle,
+.detalle__aside,
+.detalle__seccion-titulo,
+.empresa,
+.empresa__header-info,
+.vacante,
+.vacante__fecha,
+.vacante__info,
+body {
+    flex-direction: column;
+}
+
+.categoria__item:hover,
+.destacadas .vacante.vacante--prioridad:hover {
+    box-shadow: 0 0.125rem 0.5rem rgb(0 0 0 / 8%);
+}
+
+.vacante.vacante--prioridad {
+    box-shadow: 0 -1.75rem 0 #ff0000;
+}
+
+.vacante:hover {
+    box-shadow: 0 0.125rem 0.75rem rgb(0 0 0 / 8%);
+}
+
+.vacante.vacante--prioridad:hover {
+    box-shadow: 0 -1.75rem 0 #ff0000, 0 0.125rem 0.75rem rgb(0 0 0 / 8%);
+}
+
+.empresa:hover {
+    box-shadow: 0 0.125rem 0.75rem rgba(214, 0, 28, 0.08);
+}
+
+.destacadas .vacante.vacante--prioridad {
+    box-shadow: none;
+}
+
+.categoria__item:hover {
+    transform: scale(1.025);
+}
+
+.empresa:hover,
+.vacante:hover {
+    transform: scale(1.0125);
+}
+
+.categoria__cantidad,
+.detalle__fin {
+    margin-left: auto;
+}
+
+.vacante__prioridad {
+    bottom: 100%;
+}
+
+.vacante__prioridad {
+    left: 0;
+}
+
+.vacante__prioridad {
+    right: 0;
+}
+
+.detalle__logo,
+.empresa__logo,
+.vacante__logo {
+    -o-object-fit: contain;
+}
+
+.detalle__logo,
+.empresa__logo,
+.vacante__logo {
+    object-fit: contain;
+}
+
+.detalle__aside,
+.detalle__logo,
+.vacante__logo,
+.vacantes__aside {
+    flex-shrink: 0;
+}
+
+.vacante__descripcion {
+    -webkit-line-clamp: 2;
+}
+
+.vacante__descripcion {
+    -webkit-box-orient: vertical;
+}
+
+.vacante__descripcion {
+    overflow: hidden;
+}
+
+.vacante__badges,
+.vacante__requisitos {
+    flex-wrap: wrap;
+}
+
+input,
+select {
+    min-width: 11.25rem;
+}
+
+.busqueda__input,
+.vacantes__lista {
+    min-width: 0;
+}
+
+.aside__opcion input[type="checkbox"] {
+    min-width: 1rem;
+}
+
+.aside__opcion input[type="checkbox"] {
+    accent-color: #0578ff;
+}
+
+.contacto__input:focus,
+.contacto__textarea:focus {
+    border-color: #0578ff;
+}
+
+.detalle__header {
+    padding-bottom: 1.5rem;
+}
+
+.detalle__seccion {
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    html {
+        scroll-padding: 6.25rem;
+    }
+
+    .categorias__grilla,
+    .detalle__fin,
+    .detalle__header,
+    .header .container,
+    .hero__busqueda-inner,
+    .vacante__footer,
+    .vacante__pagina,
+    .empresas__layout,
+    .vacantes__layout {
+        flex-direction: column;
+    }
+
+    .detalle__aside,
+    .vacante__pagina {
+        align-items: center;
+    }
+
+    .vacante__footer {
+        align-items: flex-start;
+    }
+
+    .detalle__header,
+    .vacante__pagina {
+        text-align: center;
+    }
+
+    .categorias__grilla {
+        display: flex;
+    }
+
+    .detalle__aside .detalle__info-empresa,
+    .detalle__aside h2 {
+        display: none;
+    }
+
+    .detalle__aside {
+        position: unset;
+    }
+
+    .vacantes__aside {
+        position: static;
+    }
+
+    .header .container {
+        height: auto;
+    }
+
+    .header .container {
+        padding: 0.8rem 1rem;
+    }
+
+    .header .container {
+        gap: 0.5rem;
+    }
+
+    .nav__lista {
+        gap: 1rem;
+    }
+
+    .vacante__footer {
+        gap: 0.75rem;
+    }
+
+    .nav__lista {
+        flex-wrap: wrap;
+    }
+
+    .nav__lista {
+        justify-content: center;
+    }
+
+    .hero__content h1 {
+        font-size: 3.5rem;
+    }
+
+    .categorias__grilla {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .detalle__seccion {
+        grid-template-columns: 9.375rem 1fr;
+    }
+
+    .vacantes__aside {
+        width: 100%;
+    }
+
+    .detalle__fin {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .detalle__seccion,
+    .tarjetas {
+        display: flex;
+    }
+
+    .detalle__seccion,
+    .tarjetas {
+        flex-direction: column;
+    }
+
+    .detalle__seccion-titulo,
+    .vacante__fecha {
+        flex-direction: row;
+    }
+
+    .detalle__seccion-titulo {
+        justify-content: space-between;
+    }
+
+    .hero {
+        padding: 5rem 0;
+    }
+}
+
+html,
+body {
+    background-color: #ffffff;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.main {
+    flex: 1;
+}
+
+.texto-intro {
+    color: #666666;
+    margin: 1.25rem 0 1.5rem;
+    max-width: 50rem;
+}
+
+.btn-link {
+    background: none;
+    border: none;
+    height: auto;
+    padding: 0;
+    cursor: pointer;
+    color: inherit;
+    text-align: left;
+}
+
+.nav__lista li {
+    display: flex;
+    align-items: center;
+}
+
+.nav__salir {
+    color: #555555;
+    font-size: 0.95rem;
+    line-height: inherit;
+    padding: 0.25rem 0;
+    border-bottom: 0.125rem solid transparent;
+    border-radius: 0;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.nav__salir:hover {
+    color: #0578ff;
+    border-bottom-color: #0578ff;
+}
+
+.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn--chico {
+    height: 2.25rem;
+    padding: 0 0.875rem;
+    font-size: 0.875rem;
+}
+
+.btn--peligro {
+    background-color: #ff3b30;
+}
+
+.btn--peligro:hover {
+    background-color: #ff6259;
+}
+
+.contacto__textarea {
+    height: auto;
+    min-height: 8rem;
+    padding: 1rem 1.25rem;
+    border: 0.0625rem solid #e5e5ea;
+    border-radius: 0.75rem;
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: 1.5;
+    resize: vertical;
+}
+
+select.contacto__input {
+    padding: 0 1rem;
+}
+
+.contacto__input--error,
+.contacto__input--error:focus {
+    border-color: #ff3b30;
+}
+
+.contacto__error {
+    color: #9b0015;
+    font-size: 0.75rem;
+}
+
+.contacto__aviso--info {
+    background: #eef5ff;
+    border: 0.0625rem solid #b9d7ff;
+    color: #0a4ea3;
+    font-size: 0.875rem;
+}
+
+.contacto__aviso a {
+    text-decoration: underline;
+}
+
+.contacto__check {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: #333333;
+    cursor: pointer;
+}
+
+.contacto__check input {
+    width: 1rem;
+    height: 1rem;
+    min-width: 1rem;
+    padding: 0;
+    accent-color: #0578ff;
+}
+
+.campos-fila {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.125rem;
+}
+
+.vacantes__total {
+    color: #888888;
+    font-size: 0.875rem;
+}
+
+.tarjeta {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5rem;
+    background: #ffffff;
+    border: 0.0625rem solid #e5e5ea;
+    border-radius: 1.5rem;
+}
+
+.estado {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0.75rem;
+    border-radius: 1.25rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.estado--pendiente {
+    background: #f2f2f7;
+    color: #555555;
+}
+
+.estado--en-revision {
+    background: #fff6e0;
+    color: #8a5a00;
+}
+
+.estado--aceptada {
+    background: #e6f9ee;
+    color: #1a6e35;
+}
+
+.estado--rechazada {
+    background: #fff0f2;
+    color: #9b0015;
+}
+
+.perfil {
+    display: grid;
+    grid-template-columns: minmax(0, 24rem) minmax(0, 1fr);
+    gap: 2rem;
+    align-items: start;
+    margin-top: 1.5rem;
+}
+
+.perfil h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.perfil .contacto__formulario {
+    margin-top: 0;
+}
+
+.perfil__lista {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.postulacion-item__cabecera {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.postulacion-item__cabecera h3 {
+    font-size: 1.125rem;
+    line-height: 1.3;
+}
+
+.postulacion-item__cabecera h3 a:hover {
+    text-decoration: underline;
+}
+
+.postulacion-item__meta {
+    color: #888888;
+    font-size: 0.875rem;
+}
+
+.postulacion-item__mensaje {
+    color: #333333;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    white-space: pre-line;
+}
+
+.postulacion-item__perfil {
+    color: #0578ff;
+    font-size: 0.875rem;
+    word-break: break-all;
+}
+
+.acciones {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.5rem 0;
+    border-bottom: 0.0625rem solid #e5e5ea;
+}
+
+.tabs__item {
+    height: auto;
+    padding: 0.75rem 1rem;
+    background: none;
+    border: none;
+    border-bottom: 0.125rem solid transparent;
+    border-radius: 0;
+    color: #555555;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.tabs__item:hover,
+.tabs__item--activo {
+    color: #0578ff;
+    border-bottom-color: #0578ff;
+}
+
+.admin__barra {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.admin__barra h2 {
+    margin-bottom: 0;
+    font-size: 1.25rem;
+}
+
+.admin__barra select {
+    height: 2.5rem;
+    padding: 0 0.75rem;
+}
+
+.tabla__contenedor {
+    overflow-x: auto;
+    background: #ffffff;
+    border: 0.0625rem solid #e5e5ea;
+    border-radius: 1rem;
+}
+
+.tabla {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+}
+
+.tabla th,
+.tabla td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    vertical-align: middle;
+    border-bottom: 0.0625rem solid #f0f0f5;
+}
+
+.tabla th {
+    background: #fafafc;
+    color: #888888;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.tabla tr:last-child td {
+    border-bottom: none;
+}
+
+.tabla a:hover {
+    text-decoration: underline;
+}
+
+.tabla select {
+    height: 2.25rem;
+    min-width: 9rem;
+    padding: 0 0.5rem;
+    font-size: 0.875rem;
+}
+
+.tabla__sub {
+    display: block;
+    color: #888888;
+    font-size: 0.75rem;
+}
+
+.tabla__acciones {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    white-space: nowrap;
+}
+
+.editor {
+    max-width: 50rem;
+}
+
+.editor__volver {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: #0578ff;
+    font-size: 0.875rem;
+}
+
+.editor__volver:hover {
+    text-decoration: underline;
+}
+
+.pagina-error {
+    text-align: center;
+}
+
+.pagina-error p {
+    color: #8e8e93;
+    margin: 1rem 0 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .perfil,
+    .campos-fila {
+        grid-template-columns: 1fr;
+    }
+
+    .postulacion-item__cabecera {
+        flex-direction: column;
+    }
+}
+
+.contacto__formulario--compacto {
+    margin-top: 0;
+    padding: 0;
+    border: none;
+}

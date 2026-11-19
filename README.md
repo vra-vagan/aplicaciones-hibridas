@@ -1,10 +1,11 @@
-# CazaTalentos API
+# CazaTalentos
 
-API REST de un portal de empleo: empleadores, vacantes y usuarios.
+Portal de empleo full stack con MERN. Los usuarios se registran, inician sesión, consultan vacantes y empresas y se postulan a las vacantes. Los administradores gestionan vacantes, empresas, postulaciones y usuarios.
 
-- **Alumnos:** Vagan Arakelian, Leonard White
-- **Materia:** Aplicaciones Híbridas
-- **Docente:** Jonathan Emanuel Cruz
-- **Comisión:** DWN4AV
+- `backend/`: API REST con Node.js, Express, MongoDB y JWT.
+- `frontend/`: aplicación con React.
 
-Parcial 1 · Escuela Da Vinci · 2026
+## Alumnos
+
+- Arakelian Vagan
+- White Leonard
